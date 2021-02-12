@@ -18,3 +18,4 @@ ProceduralNaturePack --> Content/Marketplace/ProceduralNaturePack
 #### .gitignore
 # Marketplace
 Content/Marketplace/*
+Content/Megascans/*
